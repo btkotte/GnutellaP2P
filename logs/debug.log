@@ -1,0 +1,617 @@
+{"level":"info","message":"CONNECTED TO: 192.168.0.5:6346","timestamp":"2015-10-31T20:58:25.554Z"}
+{"level":"info","message":"TO 192.168.0.5: JOIN REQ","timestamp":"2015-10-31T20:58:25.561Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: JOIN RESPONSE RECEIVED.","timestamp":"2015-10-31T20:58:25.570Z"}
+{"level":"info","message":"CONNECTED TO: 130.233.195.31:6346","timestamp":"2015-10-31T20:58:30.556Z"}
+{"level":"info","message":"TO 130.233.195.31: JOIN REQ","timestamp":"2015-10-31T20:58:30.557Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:30.564Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:30.565Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:58:30.568Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:58:30.570Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:30.571Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:30.572Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:30.573Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:30.574Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: JOIN RESPONSE RECEIVED.","timestamp":"2015-10-31T20:58:31.547Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:58:34.456Z"}
+{"level":"debug","message":"==================KEY: commonkey","timestamp":"2015-10-31T20:58:34.456Z"}
+{"level":"info","message":"CONNECTED TO: 130.233.195.32:6346","timestamp":"2015-10-31T20:58:35.557Z"}
+{"level":"info","message":"TO 130.233.195.32: JOIN REQ","timestamp":"2015-10-31T20:58:35.558Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:35.560Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:58:35.562Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:58:35.562Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: JOIN RESPONSE RECEIVED.","timestamp":"2015-10-31T20:58:35.565Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:35.568Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:35.568Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:35.568Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:35.571Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:35.572Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:35.572Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:35.573Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:35.573Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:35.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:58:36.570Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:58:36.571Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:58:39.469Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:58:39.469Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:58:39.470Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:58:39.470Z"}
+{"level":"info","message":"A socket has been closed","timestamp":"2015-10-31T20:58:40.558Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:40.559Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:40.560Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:58:40.560Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:58:40.561Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:58:40.563Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:58:40.565Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:40.570Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:40.570Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:40.571Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:40.574Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:40.574Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:40.575Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:40.575Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:40.614Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:41.523Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:41.564Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:58:43.526Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:58:43.527Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:58:44.471Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:58:44.472Z"}
+{"level":"debug","message":"============QUERYING THE NETWORK NOW WITH KEY: commonkey============","timestamp":"2015-10-31T20:58:45.546Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY 636f6d6d6f6e6b6579","timestamp":"2015-10-31T20:58:45.548Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:58:45.562Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:58:45.563Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:58:45.566Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:58:45.567Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:45.568Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:45.571Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:45.574Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:45.576Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:45.577Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:45.580Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:45.581Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:45.608Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:46.936Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:46.980Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:58:48.938Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:58:48.939Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:58:49.470Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:58:49.470Z"}
+{"level":"info","message":"CONNECTED TO: 130.233.195.30:6346","timestamp":"2015-10-31T20:58:50.559Z"}
+{"level":"info","message":"TO 130.233.195.30: JOIN REQ","timestamp":"2015-10-31T20:58:50.559Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:58:50.564Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:58:50.564Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: JOIN RESPONSE RECEIVED.","timestamp":"2015-10-31T20:58:50.567Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:58:50.568Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:58:50.568Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:50.570Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:50.572Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:50.575Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:50.576Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:50.581Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:50.581Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:50.582Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:50.582Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:50.612Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:50.616Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:58:53.581Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:58:53.582Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:58:53.583Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:58:53.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:58:54.456Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:58:54.460Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:58:54.461Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:58:54.461Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:58:54.464Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:58:54.464Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.560Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.565Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.566Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:58:55.566Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:58:55.567Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.570Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.571Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:58:55.571Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:58:55.571Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY HIT RECEIVED.","timestamp":"2015-10-31T20:58:55.572Z"}
+{"level":"debug","message":"================KEY ID: 0001,Value: 11111111","timestamp":"2015-10-31T20:58:55.572Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.572Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:58:55.573Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:58:55.573Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY HIT FORWARDED ","timestamp":"2015-10-31T20:58:55.577Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.578Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:58:55.578Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:58:55.579Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:58:55.579Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:55.581Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:55.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:58:55.585Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:58:55.585Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:58:55.586Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:58:55.587Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T20:58:55.613Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T20:58:55.616Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:58:55.620Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:58:55.656Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY HIT RECEIVED.","timestamp":"2015-10-31T20:58:57.616Z"}
+{"level":"debug","message":"================KEY ID: 1212,Value: 12121212","timestamp":"2015-10-31T20:58:57.617Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:58:57.618Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:58:57.619Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: QUERY HIT RECEIVED.","timestamp":"2015-10-31T20:58:57.620Z"}
+{"level":"debug","message":"================KEY ID: 1212,Value: 12121212","timestamp":"2015-10-31T20:58:57.621Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY HIT RECEIVED.","timestamp":"2015-10-31T20:58:57.655Z"}
+{"level":"debug","message":"================KEY ID: 0001,Value: 110a5150","timestamp":"2015-10-31T20:58:57.656Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:58:59.478Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:58:59.480Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:58:59.482Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:58:59.483Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY HIT FORWARDED ","timestamp":"2015-10-31T20:59:00.568Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:00.569Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:00.569Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:00.572Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:00.573Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY HIT FORWARDED ","timestamp":"2015-10-31T20:59:00.575Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY HIT FORWARDED ","timestamp":"2015-10-31T20:59:00.575Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:00.575Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:00.576Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:00.579Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:00.579Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:00.582Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:00.583Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:00.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:00.588Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:00.588Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:00.588Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:00.589Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:00.602Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:00.606Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:00.653Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:01.624Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY HIT RECEIVED.","timestamp":"2015-10-31T20:59:01.625Z"}
+{"level":"debug","message":"================KEY ID: 1212,Value: 12121212","timestamp":"2015-10-31T20:59:01.625Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:01.628Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:03.371Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:03.372Z"}
+{"level":"debug","message":"============QUERYING THE NETWORK NOW WITH KEY: key12345============","timestamp":"2015-10-31T20:59:05.551Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY 6b65793132333435","timestamp":"2015-10-31T20:59:05.552Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:05.569Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:05.570Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:05.573Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:05.574Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:05.574Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:05.578Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:05.578Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:05.583Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:05.583Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:05.586Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:05.587Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:05.588Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:05.588Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:05.590Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:05.590Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:05.591Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:05.591Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:05.597Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:59:05.627Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:59:05.627Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:05.637Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:06.633Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:06.648Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T20:59:06.649Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T20:59:06.649Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:10.571Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:10.572Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:10.575Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:10.576Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:10.579Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:10.580Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:10.584Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:10.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:10.585Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:10.589Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:10.590Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:10.591Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:10.592Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:10.593Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:10.701Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:10.744Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:11.481Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:11.482Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:11.483Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:11.483Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:59:11.489Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:59:11.490Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:11.491Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:12.658Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:12.659Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:14.457Z"}
+{"level":"debug","message":"==================KEY: vm2testkey","timestamp":"2015-10-31T20:59:14.458Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:14.459Z"}
+{"level":"debug","message":"==================KEY: vm2testkey","timestamp":"2015-10-31T20:59:14.460Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:14.461Z"}
+{"level":"debug","message":"==================KEY: vm2testkey","timestamp":"2015-10-31T20:59:14.461Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:59:14.462Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:59:14.462Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.573Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.574Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:15.575Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:15.576Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.579Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.580Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:15.581Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:15.581Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:15.582Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.583Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.583Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:15.583Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:15.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:15.585Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.586Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.586Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:15.587Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:15.587Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:15.588Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:15.595Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:15.596Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:15.596Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:15.599Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:16.461Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T20:59:16.462Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T20:59:16.463Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:16.465Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:16.477Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:16.519Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:18.479Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:18.480Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:18.480Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:18.481Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:20.477Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:20.477Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:20.577Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:20.578Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:20.582Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:20.582Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:20.583Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:20.585Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:20.586Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:20.586Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:20.588Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:20.589Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:20.590Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:20.596Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:20.597Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:20.598Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:20.598Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:20.623Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:20.627Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:20.638Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:23.594Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:23.594Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:59:23.595Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:59:23.595Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:24.621Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:24.622Z"}
+{"level":"debug","message":"============QUERYING THE NETWORK NOW WITH KEY: vm2testkey============","timestamp":"2015-10-31T20:59:25.555Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY 766d32746573746b6579","timestamp":"2015-10-31T20:59:25.555Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:25.579Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:25.580Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:25.583Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:25.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:25.585Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:25.587Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:25.587Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:25.590Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:25.591Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:25.599Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:25.599Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:25.600Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:25.600Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:25.630Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:25.655Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:25.688Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:27.616Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:27.617Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:59:27.622Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:59:27.624Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:27.626Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T20:59:29.624Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T20:59:29.625Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:30.580Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:30.581Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:30.584Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:30.585Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:30.589Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:30.590Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:30.592Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:30.592Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:30.595Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:30.598Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:30.601Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:30.601Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:30.602Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:30.603Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:31.634Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:31.635Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:31.640Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:31.640Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:31.642Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:31.642Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:31.675Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:34.462Z"}
+{"level":"debug","message":"==================KEY: vm3testkey","timestamp":"2015-10-31T20:59:34.462Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:34.463Z"}
+{"level":"debug","message":"==================KEY: vm3testkey","timestamp":"2015-10-31T20:59:34.465Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:34.468Z"}
+{"level":"debug","message":"==================KEY: vm3testkey","timestamp":"2015-10-31T20:59:34.469Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.582Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.582Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:35.583Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:35.583Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.585Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.586Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:35.587Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:35.587Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:35.589Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:35.589Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.590Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.591Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:35.591Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:35.591Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:35.592Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:35.593Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.593Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.594Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T20:59:35.594Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:35.594Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:35.595Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:35.597Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:35.598Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:35.600Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:35.603Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:35.603Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:35.604Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:35.604Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:35.605Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:39.492Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:39.492Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:39.493Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:39.493Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:59:39.497Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:59:39.497Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:40.583Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:40.587Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:40.588Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:40.588Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:40.589Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:40.592Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:40.593Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:40.594Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:40.595Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:40.596Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:40.597Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:40.605Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:40.605Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:40.606Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:40.608Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:40.631Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:41.584Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:41.588Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:42.636Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:42.637Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:59:42.639Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:59:42.640Z"}
+{"level":"debug","message":"============QUERYING THE NETWORK NOW WITH KEY: vm3testkey============","timestamp":"2015-10-31T20:59:45.558Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY 766d33746573746b6579","timestamp":"2015-10-31T20:59:45.559Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:45.587Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:45.588Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:45.588Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:45.589Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:45.592Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:45.592Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:45.593Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:45.596Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:45.596Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:45.597Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:45.597Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:45.599Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:45.599Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:45.603Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:45.607Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:45.607Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:45.608Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:45.608Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:45.643Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:46.689Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:46.693Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:48.770Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:48.771Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:50.588Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:50.589Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:50.590Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:50.591Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:50.592Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:50.594Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:50.597Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:50.598Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:50.599Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:50.600Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:50.603Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:50.606Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:50.609Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:50.609Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:50.610Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:50.610Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:50.637Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:50.638Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:53.598Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:53.599Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T20:59:53.600Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T20:59:53.600Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:53.601Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:53.601Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T20:59:54.498Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T20:59:54.499Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T20:59:54.501Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T20:59:54.501Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T20:59:55.594Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T20:59:55.595Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T20:59:55.595Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T20:59:55.596Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T20:59:55.600Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T20:59:55.600Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T20:59:55.601Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T20:59:55.601Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T20:59:55.611Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T20:59:55.612Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T20:59:55.613Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T20:59:55.613Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:55.622Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:55.664Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:56.551Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:56.596Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T20:59:56.640Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T20:59:56.699Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T20:59:57.627Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T20:59:57.627Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:58.926Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:59:58.926Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:58.927Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:59:58.928Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: QUERY MSG RECEIVED.","timestamp":"2015-10-31T20:59:58.928Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T20:59:58.929Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T20:59:59.499Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T20:59:59.500Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T20:59:59.500Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T20:59:59.501Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.596Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.597Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T21:00:00.597Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T21:00:00.598Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.598Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.599Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T21:00:00.599Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T21:00:00.599Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.601Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.601Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T21:00:00.601Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T21:00:00.602Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.602Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.602Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:00.602Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T21:00:00.602Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T21:00:00.603Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:00.604Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:00.607Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:00.610Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: QUERY MSG RECEIVED.","timestamp":"2015-10-31T21:00:00.612Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T21:00:00.612Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:00.612Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:00.647Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:00.652Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: QUERY MSG RECEIVED.","timestamp":"2015-10-31T21:00:00.652Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T21:00:00.653Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T21:00:03.761Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T21:00:03.761Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T21:00:03.762Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T21:00:03.762Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T21:00:04.502Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T21:00:04.502Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.600Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.600Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T21:00:05.601Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T21:00:05.601Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.602Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.606Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T21:00:05.606Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T21:00:05.607Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.608Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:05.608Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T21:00:05.608Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T21:00:05.609Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T21:00:05.609Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T21:00:05.609Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:05.611Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T21:00:05.614Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T21:00:05.614Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T21:00:05.615Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T21:00:05.615Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:05.652Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:05.766Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:05.812Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:06.515Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:06.556Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T21:00:08.518Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T21:00:08.519Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T21:00:08.520Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T21:00:08.520Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: QUERY MSG RECEIVED.","timestamp":"2015-10-31T21:00:08.521Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T21:00:08.522Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: QUERY MSG RECEIVED.","timestamp":"2015-10-31T21:00:08.525Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T21:00:08.525Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: QUERY MSG RECEIVED.","timestamp":"2015-10-31T21:00:09.771Z"}
+{"level":"debug","message":"==================KEY: vm1testkey","timestamp":"2015-10-31T21:00:09.772Z"}
+{"level":"info","message":"REPEAT QUERY MSG FOUND OR TTL EXPIRED. DROPPING PACKET!","timestamp":"2015-10-31T21:00:09.772Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.603Z"}
+{"level":"info","message":"TO 130.233.195.30: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.604Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T21:00:10.604Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T21:00:10.605Z"}
+{"level":"info","message":"TO 130.233.195.32: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.618Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T21:00:10.619Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T21:00:10.619Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:10.619Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING A RECEIVED.","timestamp":"2015-10-31T21:00:10.620Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG A","timestamp":"2015-10-31T21:00:10.620Z"}
+{"level":"info","message":"TO 130.233.195.31: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.620Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T21:00:10.620Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T21:00:10.620Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.621Z"}
+{"level":"info","message":"TO 192.168.0.5: QUERY FORWARDED ","timestamp":"2015-10-31T21:00:10.621Z"}
+{"level":"info","message":"TO 192.168.0.5: PING A","timestamp":"2015-10-31T21:00:10.621Z"}
+{"level":"info","message":"TO 192.168.0.5: PING B","timestamp":"2015-10-31T21:00:10.621Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: PING B RECEIVED.","timestamp":"2015-10-31T21:00:10.621Z"}
+{"level":"info","message":"TO 192.168.0.5: PONG B","timestamp":"2015-10-31T21:00:10.622Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:10.627Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:10.631Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T21:00:12.406Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T21:00:12.407Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T21:00:12.408Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T21:00:12.408Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T21:00:12.534Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T21:00:12.535Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:12.538Z"}
+{"level":"info","message":"\t\t\t\tFROM 192.168.0.5: BYE MSG RECEIVED.","timestamp":"2015-10-31T21:00:14.449Z"}
+{"level":"info","message":"A socket has been closed","timestamp":"2015-10-31T21:00:14.451Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING B RECEIVED.","timestamp":"2015-10-31T21:00:14.452Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG B","timestamp":"2015-10-31T21:00:14.452Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T21:00:15.606Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T21:00:15.607Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T21:00:15.620Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T21:00:15.621Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T21:00:15.621Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T21:00:15.622Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:15.625Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:15.627Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:15.630Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:15.667Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:16.459Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:16.500Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PING A RECEIVED.","timestamp":"2015-10-31T21:00:18.613Z"}
+{"level":"info","message":"TO 130.233.195.30: PONG A","timestamp":"2015-10-31T21:00:18.614Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING A RECEIVED.","timestamp":"2015-10-31T21:00:18.615Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG A","timestamp":"2015-10-31T21:00:18.615Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING A RECEIVED.","timestamp":"2015-10-31T21:00:18.616Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG A","timestamp":"2015-10-31T21:00:18.616Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PING B RECEIVED.","timestamp":"2015-10-31T21:00:18.643Z"}
+{"level":"info","message":"TO 130.233.195.31: PONG B","timestamp":"2015-10-31T21:00:18.644Z"}
+{"level":"info","message":"TO 130.233.195.30: PING A","timestamp":"2015-10-31T21:00:20.611Z"}
+{"level":"info","message":"TO 130.233.195.30: PING B","timestamp":"2015-10-31T21:00:20.612Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:20.616Z"}
+{"level":"info","message":"TO 130.233.195.32: PING A","timestamp":"2015-10-31T21:00:20.621Z"}
+{"level":"info","message":"TO 130.233.195.32: PING B","timestamp":"2015-10-31T21:00:20.622Z"}
+{"level":"info","message":"TO 130.233.195.31: PING A","timestamp":"2015-10-31T21:00:20.624Z"}
+{"level":"info","message":"TO 130.233.195.31: PING B","timestamp":"2015-10-31T21:00:20.624Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:20.626Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.30: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:20.657Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG A RECEIVED.","timestamp":"2015-10-31T21:00:20.661Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.31: PONG B RECEIVED.","timestamp":"2015-10-31T21:00:20.664Z"}
+{"level":"info","message":"\t\t\t\tFROM 130.233.195.32: PING B RECEIVED.","timestamp":"2015-10-31T21:00:20.667Z"}
+{"level":"info","message":"TO 130.233.195.32: PONG B","timestamp":"2015-10-31T21:00:20.668Z"}
